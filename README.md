@@ -1,0 +1,2 @@
+The Student Data Management System is a console-based application written in C that utilizes a Singly Linked List (SLL) data structure to efficiently manage and manipulate student records. This project demonstrates core concepts of Data Structures and Algorithms (DSA), dynamic memory allocation, and file handling in C without relying on fixed-size arrays.
+Each student record is stored as a node in the linked list containing three primary data fields: Roll Number (integer), Name (string), and Marks (float), along with a pointer to the next record.
